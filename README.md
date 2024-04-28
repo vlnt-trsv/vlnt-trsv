@@ -19,7 +19,7 @@
 > > ERS Frontend is a service that allows people to rent electronics for short and long term. <br>
 > > A telegram bot is implemented to administer the service. 
 > - ### [🛢️ Electronics Rental Service Backend](https://github.com/vlnt-trsv/electronics-rental-service-backend)
-> 
+> > ERS Backend is a RESTful API for the client side of the electronics rental service. <br>
 > <h2 align="left">[NOW] And on the internship project ⚕️</h2>
 > 
 > - ### [🏥 Aggregator of medical services](https://github.com/sg12/plasticFront)
