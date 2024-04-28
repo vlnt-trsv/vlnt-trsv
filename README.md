@@ -3,24 +3,21 @@
 <h1 align="left">Hi there 👋</h1>
 
 <br>
-<h2 align="right"><hr>Frontend Developer from Novosibirsk 🌇</h2>
+<h2 align="right">Frontend Developer from Novosibirsk 🌇</h2>
 
 - 💼 &nbsp;I am currently unemployed, but I am doing an internship at my own university
 - 👨🏻‍🎓 &nbsp;To date, I am finishing my studies at **[NGUEU](https://nsuem.ru/index.php)**
 - - 👨‍💻 &nbsp; I study at the university with a degree in web and multimedia application development
 
 <br>
-<!--
-**vlnt-trsv/vlnt-trsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2 align="right">[NOW] I'm working on my own project ✋</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
+- ## [🖥️ Electronics Rental Service Frontend ](https://github.com/vlnt-trsv/electronics-rental-service)
+- ## [🛢️ Electronics Rental Service Backend](https://github.com/vlnt-trsv/electronics-rental-service-backend)
+
+<h2 align="right">[NOW] And on the internship project ⚕️</h2>
+
+- ## [🏥 Aggregator of medical services](https://github.com/sg12/plasticFront)
+
+<br>
