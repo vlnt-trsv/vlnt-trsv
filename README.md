@@ -40,7 +40,7 @@
 </tr>
 <tr>
 <td>
-<pre lang="markdown">
+<pre>
 console.log(fullName); // undefined
 fullName = "Dariana Trahan";
 console.log(fullName); // Dariana Trahan
