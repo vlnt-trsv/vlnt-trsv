@@ -1,4 +1,4 @@
-<img src="./images/logo.png" alt="siberiacancode" align="center"/>
+<img src="./images/logo.png" alt="vlnt-trsv" align="center"/>
 
 <h1 align="center">Hi there 👋 I'm Frontend Developer from Novosibirsk 🌇</h1>
 
@@ -8,7 +8,7 @@
 
 <br>
 
-<table>
+<table width="100%">
   <tr>
   <td align="center">
 <h2 align="left">[NOW] I'm working on my own project ✋</h2>
@@ -20,7 +20,7 @@
 
 
 
-
+<td  align="center" >
 
 <h2 align="left">[NOW] And on the internship project ⚕️</h2>
 
