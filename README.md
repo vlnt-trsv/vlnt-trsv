@@ -4,9 +4,8 @@
 
 > [!IMPORTANT]
 > 💼 &nbsp;I am currently unemployed, but I am doing an internship at my own university
-- 💼 &nbsp;I am currently unemployed, but I am doing an internship at my own university
-- 👨🏻‍🎓 &nbsp;To date, I am finishing my studies at **[NGUEU](https://nsuem.ru/index.php)**
-- - 👨‍💻 &nbsp; I study at the university with a degree in web and multimedia application development
+> 👨🏻‍🎓 &nbsp;To date, I am finishing my studies at **[NGUEU](https://nsuem.ru/index.php)**
+> > 👨‍💻 &nbsp; I study at the university with a degree in web and multimedia application development
 
 <br>
 
