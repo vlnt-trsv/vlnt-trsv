@@ -1,4 +1,4 @@
-<img src="./images/logo.png" alt="siberiacancode" align="center"/>
+<img src="./images/log.png" alt="siberiacancode" align="center"/>
 
 ### Hi there 👋
 
