@@ -7,7 +7,7 @@
 >
 > 👨🏻‍🎓 &nbsp;To date, I am finishing my studies at **[NGUEU](https://nsuem.ru/index.php)** - web and multimedia application development
 > > - [x] Create a beautiful profile
-> > - [x] Be surprised by the beauty
+> > - [x] Marvel at the beautiful profile
 > > - [ ] Get a job with a $10,000 salary.
 
 <br>
