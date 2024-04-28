@@ -7,6 +7,9 @@
 >
 > 👨🏻‍🎓 &nbsp;To date, I am finishing my studies at **[NGUEU](https://nsuem.ru/index.php)**
 > > 👨‍💻 &nbsp; I study at the university with a degree in web and multimedia application development
+> > - [x] Create a beautiful profile
+> > - [x] Be surprised by the beauty
+> > - [ ] Get a job with a $10,000 salary.
 
 <br>
 
@@ -55,8 +58,4 @@ console.log(fullName); // Dariana Trahan
 </td>
 </tr>
 </table>
-
-- [x] Create a beautiful profile
-- [x] Be surprised by the beauty
-- [ ] Get a job with a $10,000 salary.
 <br>
