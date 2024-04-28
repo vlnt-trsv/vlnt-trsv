@@ -107,5 +107,19 @@
   </tr> 
 </table>
 
+> Backend
+
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90"> 
+        <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="36" height="36" alt="Node JS" />
+      <br>Node JS<strong>🥉<strong> 
+    </td>
+    <td align="center" width="110" height="90">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="Mongo DB" />
+      <br>MongoDB<strong>🥉<strong> 
+    </td>
+  </tr> 
+</table>
 
 <br>
