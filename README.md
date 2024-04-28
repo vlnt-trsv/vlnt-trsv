@@ -123,7 +123,7 @@
     </td>
     <td align="center" width="110" height="90">
         <img src="https://raw.githubusercontent.com/nodemailer/nodemailer/master/assets/nm_logo_200x136.png" width="36" height="36" alt="Nodemailer" />
-      <br>MongoDB<strong>🥉<strong> 
+      <br>Nodemailer<strong>🥉<strong> 
     </td>
   </tr> 
 </table>
