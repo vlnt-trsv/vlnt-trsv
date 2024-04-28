@@ -69,12 +69,12 @@
         <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="36" height="36" alt="npm" />
       <br>NPM<strong>🥉<strong>
     </td>
-    </tr>
-    <tr>
      <td align="center" width="110" height="90"> 
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" height="36" alt="github" />
       <br>GitHub<strong>🥉<strong>
     </td>
+    </tr>
+    <tr>
     <td align="center" width="110" height="90"> 
         <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="36" height="36" alt="docker" />
       <br>Docker<strong>🥉<strong> 
