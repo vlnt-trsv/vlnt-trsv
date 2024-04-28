@@ -2,8 +2,8 @@
 
 <h1 align="center">Hi there 👋 I'm Frontend Developer from Novosibirsk 🌇</h1>
 
+<h2 align="left">A little about me 😎</h2>
 > [!NOTE]
-> <h2 align="left">A little about me 😎</h2>
 > 💼 &nbsp;I am currently unemployed, but I am doing an internship at my own university <br>
 >
 > 👨🏻‍🎓 &nbsp;To date, I am finishing my studies at **[NGUEU](https://nsuem.ru/index.php)** - web and multimedia application development
@@ -13,15 +13,16 @@
 
 <br>
 
+<h2 align="left">My work now</h2>
 > [!IMPORTANT]
-> <h2 align="left">[NOW] I'm working on my own project ✋</h2>
+> <h2 align="left">I'm working on my own project ✋</h2>
 >
 > - ### [🖥️ Electronics Rental Service Frontend ](https://github.com/vlnt-trsv/electronics-rental-service)
 > > ERS Frontend is a service that allows people to rent electronics for short and long term. <br>
 > > A telegram bot is implemented to administer the service. 
 > - ### [🛢️ Electronics Rental Service Backend](https://github.com/vlnt-trsv/electronics-rental-service-backend)
 > > ERS Backend is a RESTful API for the client side of the electronics rental service. <br>
-> <h2 align="left">[NOW] And on the internship project ⚕️</h2>
+> <h2 align="left">And on the internship project ⚕️</h2>
 > 
 > - ### [🏥 Aggregator of medical services](https://github.com/sg12/plasticFront)
 
