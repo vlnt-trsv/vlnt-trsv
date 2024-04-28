@@ -3,7 +3,7 @@
 <h1 align="center">Hi there 👋 I'm Frontend Developer from Novosibirsk 🌇</h1>
 
 > [!NOTE]
-> <h3 align="left">A little about me 😎</h3>
+> <h2 align="left">A little about me 😎</h2>
 > 💼 &nbsp;I am currently unemployed, but I am doing an internship at my own university <br>
 >
 > 👨🏻‍🎓 &nbsp;To date, I am finishing my studies at **[NGUEU](https://nsuem.ru/index.php)** - web and multimedia application development
