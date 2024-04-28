@@ -31,5 +31,5 @@
   </tr> 
 </table>
 
-<h4 align="right"><a name="top">Back to top</a></h4>
+<a align="right" name="top">Back to top</a>
 <br>
