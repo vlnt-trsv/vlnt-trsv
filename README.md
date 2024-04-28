@@ -3,6 +3,7 @@
 <h1 align="center">Hi there 👋 I'm Frontend Developer from Novosibirsk 🌇</h1>
 
 <h2 align="left">A little about me 😎</h2>
+
 > [!NOTE]
 > 💼 &nbsp;I am currently unemployed, but I am doing an internship at my own university <br>
 >
@@ -14,6 +15,7 @@
 <br>
 
 <h2 align="left">My work now</h2>
+
 > [!IMPORTANT]
 > <h2 align="left">I'm working on my own project ✋</h2>
 >
