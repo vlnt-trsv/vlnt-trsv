@@ -57,6 +57,8 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="36" height="36" alt="css3" />
       <br>CSS3<strong>🥈<strong>
     </td>
+    </tr>
+    <tr>
     <td align="center" width="110" height="90">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" width="36" height="36" alt="figma" />
       <br>Figma<strong>🥇<strong>
@@ -77,7 +79,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="36" height="36" alt="docker" />
       <br>Docker<strong>🥉<strong> 
     </td>
-  </tr> 
+   </tr>
 </table>
 
 > Frontend
