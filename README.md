@@ -20,12 +20,12 @@
 
 <tr>
 
-<tr  align="center" width="100%" height="200">
+
 
 <h2 align="left">[NOW] And on the internship project ⚕️</h2>
 
 - ### [🏥 Aggregator of medical services](https://github.com/sg12/plasticFront)
-<tr>
+
 
 </td>
 </table>
