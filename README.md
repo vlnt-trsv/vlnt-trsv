@@ -31,5 +31,5 @@
   </tr> 
 </table>
 
-<a align="right" name="top">Back to top</a>
+[Back to top](#top)
 <br>
