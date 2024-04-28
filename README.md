@@ -10,9 +10,9 @@
 
 <h2 align="left">[NOW] I'm working on my own project ✋</h2>
 
-- ## [🖥️ Electronics Rental Service Frontend ](https://github.com/vlnt-trsv/electronics-rental-service)
+- ### [🖥️ Electronics Rental Service Frontend ](https://github.com/vlnt-trsv/electronics-rental-service)
   ABC
-- ## [🛢️ Electronics Rental Service Backend](https://github.com/vlnt-trsv/electronics-rental-service-backend)
+- ### [🛢️ Electronics Rental Service Backend](https://github.com/vlnt-trsv/electronics-rental-service-backend)
   ABC
 
 <h2 align="left">[NOW] And on the internship project ⚕️</h2>
