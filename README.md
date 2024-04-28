@@ -24,6 +24,14 @@
 > - ### [🏥 Aggregator of medical services](https://github.com/sg12/plasticFront)
 
 
+[  <table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90">
+        TEST
+    </td>
+  </tr> 
+</table>](_url_)
+
 <table>
 <tr>
 <th>Before Hoisting</th>
@@ -32,13 +40,6 @@
 <tr>
 <td>
 <pre>
-  <table width='100%'>
-  <tr>
-    <td align="center" width="110" height="90">
-        TEST
-    </td>
-  </tr> 
-</table>
 console.log(fullName); // undefined
 fullName = "Dariana Trahan";
 console.log(fullName); // Dariana Trahan
