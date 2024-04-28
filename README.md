@@ -5,8 +5,7 @@
 > [!NOTE]
 > 💼 &nbsp;I am currently unemployed, but I am doing an internship at my own university <br>
 >
-> 👨🏻‍🎓 &nbsp;To date, I am finishing my studies at **[NGUEU](https://nsuem.ru/index.php)**
-> > 👨‍💻 &nbsp; I study at the university with a degree in web and multimedia application development
+> 👨🏻‍🎓 &nbsp;To date, I am finishing my studies at **[NGUEU](https://nsuem.ru/index.php)** - web and multimedia application development
 > > - [x] Create a beautiful profile
 > > - [x] Be surprised by the beauty
 > > - [ ] Get a job with a $10,000 salary.
