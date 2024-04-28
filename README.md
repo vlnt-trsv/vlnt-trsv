@@ -37,41 +37,47 @@
   <tr>
     <td align="center" width="110" height="90">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="36" height="36" alt="javascript" />
-      <br>TS *
+      <br>JS <strong>* #<strong>
     </td>
     <td align="center" width="110" height="90">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="36" height="36" alt="typescript" />
-      <br>TS <strong>*<strong>
+      <br>TS <strong>* #<strong>
     </td>
         <td align="center" width="110" height="90">
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="36" height="36" alt="Html5" />
-      <br>HTML5
+      <br>HTML5 <strong>##<strong>
     </td>
          <td align="center" width="110" height="90"> 
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="36" height="36" alt="css3" />
-      <br>CSS3
+      <br>CSS3 <strong>##<strong>
     </td>
     <td align="center" width="110" height="90">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" width="36" height="36" alt="figma" />
-      <br>FIGMA
+      <br>FIGMA <strong>###<strong>
     </td>
     <td align="center" width="110" height="90">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="36" height="36" alt="git" />
-      <br>GIT
+      <br>GIT <strong>#<strong>
     </td>
     <td align="center" width="110" height="90"> 
         <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="36" height="36" alt="npm" />
-      <br>NPM
+      <br>NPM <strong>#<strong>
     </td>
      <td align="center" width="110" height="90"> 
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" height="36" alt="github" />
-      <br>GITHUB
+      <br>GITHUB <strong>#<strong>
     </td>
     <td align="center" width="110" height="90"> 
         <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="36" height="36" alt="docker" />
-      <br>DOCKER 
+      <br>DOCKER <strong>#<strong> 
     </td>
   </tr> 
 </table>
+
+> [!TIP]
+> I'm learning - *
+> I know a little bit - #
+> I know at an intermediate level - ##
+> I know at a high level - ###
 
 <br>
