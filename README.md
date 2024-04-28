@@ -3,8 +3,7 @@
 <h1 align="left">Hi there 👋</h1>
 
 <br>
-
-<h2 align="right">Frontend Developer from Novosibirsk</h2>
+<h2 align="right"><hr>Frontend Developer from Novosibirsk 🌇</h2>
 
 - 💼 &nbsp;I am currently unemployed, but I am doing an internship at my own university
 - 👨🏻‍🎓 &nbsp;To date, I am finishing my studies at **[NGUEU](https://nsuem.ru/index.php)**
