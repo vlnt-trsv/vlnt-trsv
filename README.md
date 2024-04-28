@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there 👋 I'm Frontend Developer from Novosibirsk 🌇</h1>
 
-> [!IMPORTANT]
+> [!NOTE]
 > 💼 &nbsp;I am currently unemployed, but I am doing an internship at my own university <br>
 >
 > 👨🏻‍🎓 &nbsp;To date, I am finishing my studies at **[NGUEU](https://nsuem.ru/index.php)**
@@ -10,7 +10,8 @@
 
 <br>
 
-<h2 align="left">[NOW] I'm working on my own project ✋</h2>
+> [!IMPORTANT]
+> <h2 align="left">[NOW] I'm working on my own project ✋</h2>
 
 - ### [🖥️ Electronics Rental Service Frontend ](https://github.com/vlnt-trsv/electronics-rental-service)
 
