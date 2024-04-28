@@ -14,7 +14,7 @@
 
 <br>
 
-<h2 align="left">My work now</h2>
+<h2 align="left">My work now 🔥</h2>
 
 > [!IMPORTANT]
 > <h2 align="left">I'm working on my own project ✋</h2>
