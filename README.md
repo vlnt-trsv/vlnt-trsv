@@ -26,10 +26,9 @@
 > - ### [🏥 Aggregator of medical services](https://github.com/sg12/plasticFront)
 
 
-<h2 align="left" id="debabin-stack">👨‍💻 Tech stack</h2>
+<h2 align="left" id="debabin-stack">👨‍💻 Tech stack ( learnign - * )</h2>
 
 > General
-> > learning - *
 
 <table width='100%'>
   <tr>
