@@ -1,6 +1,6 @@
 <img src="./images/logo.png" alt="vlnt-trsv" align="center"/>
 
-<h1 align="center">Hi there 👋 I'm Frontend Developer from Novosibirsk 🌇</h1>
+<h1 align="center">Hi there 👋 I'm Frontend Developer from Yakutia 🌇</h1>
 
 <h2 align="right">A little about me 😎</h2>
 
