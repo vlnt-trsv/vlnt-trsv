@@ -8,7 +8,7 @@
 
 <br>
 
-<table width="100%">
+<table width="100%" height="100%>
   <tr>
   <td align="center" width="100%" height="100%">
 <h2 align="left">[NOW] I'm working on my own project ✋</h2>
