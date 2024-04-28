@@ -10,12 +10,12 @@
 
 <table width="100%">
   <tr>
-    <td>
+    <td width="100%">
       <h2 align="left">[NOW] I'm working on my own project ✋</h2>
         <h3>[🖥️ [Electronics Rental Service Frontend]:https://github.com/vlnt-trsv/electronics-rental-service
         <h3>[🛢️ Electronics Rental Service Backend](https://github.com/vlnt-trsv/electronics-rental-service-backend)</h3>
     </td>
-    <td>
+    <td width="100%">
       <h2 align="left">[NOW] And on the internship project ⚕️</h2>
         <h3>[🏥 Aggregator of medical services](https://github.com/sg12/plasticFront)</h3>
     </td>
