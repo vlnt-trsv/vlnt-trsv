@@ -18,7 +18,7 @@
 - ### [🛢️ Electronics Rental Service Backend](https://github.com/vlnt-trsv/electronics-rental-service-backend)
   ABC
 
-<tr>
+
 
 
 
@@ -28,6 +28,7 @@
 
 
 </td>
+<tr>
 </table>
 
 <table width='100%'>
