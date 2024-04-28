@@ -96,8 +96,6 @@
         <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="36" height="36" alt="Bootstrap" />
       <br>Bootstrap<strong>🥈<strong> 
     </td>
-  </tr> 
-    <tr>
     <td align="center" width="110" height="90"> 
         <img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite" />
       <br>Vite<strong>🥉<strong> 
