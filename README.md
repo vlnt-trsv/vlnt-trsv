@@ -29,7 +29,8 @@
 > - ### [🏥 Aggregator of medical services](https://github.com/sg12/plasticFront)
 
 
-<h2 align="right">👨‍💻 Tech stack <strong><a href="#description">Description</a></strong></h2>
+<h2 align="right">👨‍💻 Tech stack</h2>
+<h3 align="right"><strong><a href="#description">Description</a></strong></h3>
 
 > General
 
