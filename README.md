@@ -75,9 +75,9 @@
 </table>
 
 > [!TIP]
-> I'm learning - *
-> I know a little bit - #
-> I know at an intermediate level - ##
-> I know at a high level - ###
+> I'm learning - * <br>
+> I know a little bit - # <br>
+> I know at an intermediate level - ## <br>
+> I know at a high level - ### <br>
 
 <br>
