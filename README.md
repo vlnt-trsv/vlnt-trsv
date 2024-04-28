@@ -28,7 +28,9 @@
 
 <h2 align="left" id="debabin-stack">👨‍💻 Tech stack</h2>
 
+> [!IMPORTANT]
 > General
+> > Description - *
 
 <table width='100%'>
   <tr>
