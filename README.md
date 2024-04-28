@@ -29,7 +29,13 @@
 > - ### [🏥 Aggregator of medical services](https://github.com/sg12/plasticFront)
 
 
-<h2 align="right">👨‍💻 Tech stack (<strong><a href="#description">Description</a></strong>)</h2>
+<h2 align="right">👨‍💻 Tech stack </h2>
+
+>  [!TIP]
+> I'm learning - 🤓 <br>
+> I know a little bit - 🥉 <br>
+> I know at an intermediate level - 🥈 <br>
+> I know at a high level - 🥇 <br>
 
 > General
 
@@ -73,11 +79,5 @@
     </td>
   </tr> 
 </table>
-
->  [!TIP]
-> I'm learning - 🤓 <br id="description">
-> I know a little bit - 🥉 <br>
-> I know at an intermediate level - 🥈 <br>
-> I know at a high level - 🥇 <br>
 
 <br>
