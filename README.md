@@ -1,6 +1,6 @@
 <img src="./images/logo.png" alt="siberiacancode" align="center"/>
 
-<h1 align="center">Hi there 👋 Frontend Developer from Novosibirsk 🌇</h1>
+<h1 align="center">Hi there 👋 I'm Frontend Developer from Novosibirsk 🌇</h1>
 
 - 💼 &nbsp;I am currently unemployed, but I am doing an internship at my own university
 - 👨🏻‍🎓 &nbsp;To date, I am finishing my studies at **[NGUEU](https://nsuem.ru/index.php)**
