@@ -14,9 +14,9 @@
       <h2 align="left">[NOW] I'm working on my own project ✋</h2>
       - ### [🖥️ Electronics Rental Service Frontend ](https://github.com/vlnt-trsv/electronics-rental-service)
       - ### [🛢️ Electronics Rental Service Backend](https://github.com/vlnt-trsv/electronics-rental-service-backend)
-    <td>
-      
     </td>
+      
+    <td>
       <h2 align="left">[NOW] And on the internship project ⚕️</h2>
       
       - ### [🏥 Aggregator of medical services](https://github.com/sg12/plasticFront)
