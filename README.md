@@ -56,4 +56,8 @@ console.log(fullName); // Dariana Trahan
 </tr>
 </table>
 
+- [x] Create a beautiful profile
+- [x] Be surprised by the beauty
+- [ ] Get a job with a $10,000 salary.
+
 <br>
