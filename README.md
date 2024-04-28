@@ -29,7 +29,7 @@
 <h2 align="left" id="debabin-stack">👨‍💻 Tech stack</h2>
 
 > General
-> > Description - *
+> > * - learning
 
 <table width='100%'>
   <tr>
