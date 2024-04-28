@@ -9,7 +9,6 @@
 <br>
 
 <table width="100%">
-  <tr>
     <td width="100%">
       <h2 align="left">[NOW] I'm working on my own project ✋</h2>
         <h3>[🖥️ [Electronics Rental Service Frontend]:https://github.com/vlnt-trsv/electronics-rental-service
@@ -19,7 +18,6 @@
       <h2 align="left">[NOW] And on the internship project ⚕️</h2>
         <h3>[🏥 Aggregator of medical services](https://github.com/sg12/plasticFront)</h3>
     </td>
-  <tr>
 </table>
 
 <table width='100%'>
