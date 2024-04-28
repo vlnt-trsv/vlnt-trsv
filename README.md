@@ -39,7 +39,7 @@
 
 <table width='100%'>
   <tr>
-    <td style="background: red" align="center" width="110" height="90">
+    <td align="center" width="110" height="90">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="36" height="36" alt="javascript" />
       <br>JS<strong>🤓🥉<strong>
     </td>
