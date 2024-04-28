@@ -17,6 +17,6 @@
 
 <h2 align="left">[NOW] And on the internship project ⚕️</h2>
 
-- #### [🏥 Aggregator of medical services](https://github.com/sg12/plasticFront)
+- ### [🏥 Aggregator of medical services](https://github.com/sg12/plasticFront)
 
 <br>
