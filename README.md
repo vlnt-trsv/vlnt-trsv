@@ -34,26 +34,30 @@
 </table>
 
 <table>
-<tr>
-<th>Before Hoisting</th>
-<th>After Hoisting</th>
-</tr>
-<tr>
-<td>
-<pre>
-console.log(fullName); // undefined
-fullName = "Dariana Trahan";
-console.log(fullName); // Dariana Trahan
-var fullName;
-</pre>
-</td>
-<td>
-var fullName;
-console.log(fullName); // undefined
-fullName = "Dariana Trahan";
-console.log(fullName); // Dariana Trahan
-</td>
-</tr>
+  <tr>
+    <th>1</th>
+    <th>2</th>
+  </tr>
+  <tr>
+    <td>
+      TEST
+    </td>
+    <td>
+      TEST
+    </td>
+  </tr>
+  <tr>
+    <th>3</th>
+    <th>4</th>
+  </tr>
+  <tr>
+    <td>
+      TEST
+    </td>
+     <td>
+      TEST
+    </td>
+  </tr>
 </table>
 
 <br>
