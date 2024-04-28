@@ -12,8 +12,6 @@
 > > - [x] Marvel at the beautiful profile.
 > > - [ ] Get a job with a $10,000 salary.
 
-<br>
-
 <h2 align="right">My work now 🔥</h2>
 
 > [!IMPORTANT]
