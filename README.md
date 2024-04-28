@@ -1,7 +1,16 @@
 <img src="./images/logo.png" alt="siberiacancode" align="center"/>
 
-### Hi there 👋
+<h1 align="left">Hi there 👋</h1>
 
+<br>
+
+<h2 align="right">Frontend Developer from Novosibirsk</h2>
+
+- 💼 &nbsp;I am currently unemployed, but I am doing an internship at my own university
+- 👨🏻‍🎓 &nbsp;To date, I am finishing my studies at **[NGUEU](https://nsuem.ru/index.php)**
+- - 👨‍💻 &nbsp; I study at the university with a degree in web and multimedia application development
+
+<br>
 <!--
 **vlnt-trsv/vlnt-trsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +24,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
