@@ -26,6 +26,8 @@
 > - ### [🏥 Aggregator of medical services](https://github.com/sg12/plasticFront)
 
 
+<h2 align="left" id="debabin-stack">👨‍💻 Tech stack</h2>
+
 > General
 
 <table width='100%'>
