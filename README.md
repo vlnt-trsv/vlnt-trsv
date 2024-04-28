@@ -35,16 +35,19 @@
 
 <table>
   <tr>
-    <th>1</th>
-    <th>2</th>
+    <th>javascript</th>
+    <th>html</th>
+    <th>css</th>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="36" height="36" alt="javascript" />
-      <br>javascript
+      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="36" height="36" alt="Html5" />
     </td>
-    <td>
-
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="36" height="36" alt="javascript" />
+    </td>
+     <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="36" height="36" alt="css3" />
     </td>
   </tr>
   <tr>
@@ -52,10 +55,10 @@
     <th>4</th>
   </tr>
   <tr>
-    <td>
+    <td align="center">
 
     </td>
-     <td>
+     <td align="center">
 
     </td>
   </tr>
