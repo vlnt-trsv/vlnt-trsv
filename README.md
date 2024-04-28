@@ -12,7 +12,7 @@
   <tr>
     <td>
       <h2 align="left">[NOW] I'm working on my own project ✋</h2>
-        <h3>[🖥️ Electronics Rental Service Frontend ](https://github.com/vlnt-trsv/electronics-rental-service)</h3>
+        [[🖥️ Electronics Rental Service Frontend ](https://github.com/vlnt-trsv/electronics-rental-service)](https://github.com/vlnt-trsv/electronics-rental-service "[🖥️ Electronics Rental Service Frontend ](https://github.com/vlnt-trsv/electronics-rental-service)")
         <h3>[🛢️ Electronics Rental Service Backend](https://github.com/vlnt-trsv/electronics-rental-service-backend)</h3>
     </td>
     <td>
