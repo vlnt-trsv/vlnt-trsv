@@ -74,7 +74,7 @@
   </tr> 
 </table>
 
-> > [!TIP]
+>  [!TIP]
 > I'm learning - * <br>
 > I know a little bit - # <br>
 > I know at an intermediate level - ## <br>
