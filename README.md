@@ -40,6 +40,7 @@
 </tr>
 <tr>
 <td>
+<pre lang="js">
 console.log(fullName); // undefined
 fullName = "Dariana Trahan";
 console.log(fullName); // Dariana Trahan
@@ -51,7 +52,6 @@ var fullName;
 console.log(fullName); // undefined
 fullName = "Dariana Trahan";
 console.log(fullName); // Dariana Trahan
-</pre>
 </td>
 </tr>
 </table>
