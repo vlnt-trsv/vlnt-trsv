@@ -8,6 +8,7 @@
 > 💼 &nbsp;I am currently unemployed, but I am doing an internship at my own university <br>
 >
 > 👨🏻‍🎓 &nbsp;To date, I am finishing my studies at **[NGUEU](https://nsuem.ru/index.php)** - web and multimedia application development
+> > My goals
 > > - [x] Create a beautiful profile.
 > > - [x] Marvel at the beautiful profile.
 > > - [ ] Get a job with a $10,000 salary.
