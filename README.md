@@ -19,14 +19,7 @@
 <h2 align="right">My work now 🔥</h2>
 
 > [!IMPORTANT]
-> <h2 align="left">I'm working on my own project ✋</h2>
->
-> - ### [🖥️ Electronics Rental Service Frontend ](https://github.com/vlnt-trsv/electronics-rental-service)
-> > ERS Frontend is a service that allows people to rent electronics for short and long term. <br>
-> > A telegram bot is implemented to administer the service. 
-> - ### [🛢️ Electronics Rental Service Backend](https://github.com/vlnt-trsv/electronics-rental-service-backend)
-> > ERS Backend is a RESTful API for the client side of the electronics rental service. <br>
-> <h2 align="left">And on the internship project ⚕️</h2>
+> <h2 align="left">The internship project ⚕️</h2>
 > 
 > - ### [🏥 Aggregator of medical services](https://github.com/sg12/plasticFront)
 
